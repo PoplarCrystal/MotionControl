@@ -1,0 +1,7 @@
+阻抗控制（自适应阻抗控制没有书籍，附几篇paper吧）
+[1]    Hogan N. Impedance control: an approach to manipulation: part Ⅰ-Ⅲ[J]. J Dyn Sys Meas Cont, 1985: 1-24.
+[2]    Lawrence D A. Impedance control stability properties in common implementations[C]//Robotics and Automation, 1988. Proceedings., 1988 IEEE International Conference on. IEEE, 1988: 1185-1190.
+[3]    Ott C, Mukherjee R, Nakamura Y. A hybrid system framework for unified impedance and admittance control[J]. Journal of Intelligent & Robotic Systems, 2015, 78(3-4): 359.
+[4]    Hosseinzadeh M, Aghabalaie P, Talebi H A. Adaptive Hybrid Impedance Control of robotic manipulators[J]. Hungarian Medical Journal, 2010, 7500(1):1442 - 1446.
+[5]    Aghili F. Robust impedance control of manipulators carrying a heavy payload[J]. Journal of Dynamic Systems, Measurement, and Control, 2010, 132(5): 051011.
+[6]    Anderson R J, Spong M W. Hybrid impedance control of robotic manipulators[J]. IEEE Journal on Robotics and Automation, 1988, 4(5): 549-556.
